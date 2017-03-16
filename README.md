@@ -2,10 +2,6 @@
   <img src="https://rawgit.com/Abdul2/CentreOfExcellence/master/concept.svg">
 </a>
 
-![alt tag](https://github.com/Abdul2/CentreOfExcellence/blob/master/concept.svg)
-
-![Alt text](concept.svg?raw=true "Title")
----
 
 The above diagram shows possible principles landing page (the first and only place you should go to if you are interested in discovering the principles that governs what you are working on). standards and catalogue content will also have identical structure. landing pages  will sign-post to appropriate info.
 
