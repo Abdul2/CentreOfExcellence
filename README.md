@@ -2,6 +2,7 @@
   <img src="https://rawgit.com/Abdul2/CentreOfExcellence/master/concept2.svg">
 </a>
 
+![alt tag](https://github.com/Abdul2/CentreOfExcellence/blob/master/concept.svg)
 
 ---
 
