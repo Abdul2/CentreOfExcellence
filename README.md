@@ -3,7 +3,7 @@
 </a>
 
 
-The above diagram shows possible principles landing page (the first and only place you should go to if you are interested in discovering the principles that governs what you are working on). standards and catalogue content will also have identical structure. landing pages  will sign-post to appropriate info.
+The above diagram shows possible principles landing page (the first and only place you should go to if you are interested in discovering the principles that govern what you are working on). standards and catalogue content will also have identical structure. landing pages  will sign-post to appropriate info.
 
 ---
 
