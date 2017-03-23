@@ -22,3 +22,18 @@ height:auto;
 display:table; 
 
 }
+
+.tile{ height:100px; 
+	width:100px; 
+	float:left; 
+	margin:0 5px 0 0; 
+	padding:2px; 
+} 
+
+.tileLargo{ 
+	width:210px; 
+}
+
+.amarelo{ background:#DAA520; } .vermelho{ background:#CD0000; } .azul{ background:#4682B4; } .verde{ background-color: #2E8B57; }
+
+Read more: http://mrbool.com/creating-a-metro-style-menu-in-html-and-css/26266#ixzz4c7nllzFj
