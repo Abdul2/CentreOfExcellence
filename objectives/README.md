@@ -1,10 +1,9 @@
 ###  centre of excellence  - objectives [work in progress]
 
-->
-<a href="https://olivermak.es/">
+
+<p align="center">
   <img src="https://rawgit.com/Abdul2/CentreOfExcellence/master/CeO-objectives%20.png">
-</a>
-->
+</p>
 
 ### definitions
 
@@ -19,6 +18,7 @@
 ### in step with tech change 
 
 > to be come a hub for new tech and be recognised as a lead. implications are investment in research making the bounder-less org concept a reality.
+
 
 ### right crowd
 
