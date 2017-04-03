@@ -17,7 +17,7 @@
 
 ### in step with tech change 
 
-> to be come a hub for new tech and be recognised as a lead. implications are investment in research making the bounder-less org concept a reality.
+> to be come a hub for new tech and be recognised as a lead. implications are investment in research and making the bounder-less org concept a reality.
 
 
 ### right crowd
