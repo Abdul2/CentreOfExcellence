@@ -3,7 +3,7 @@
 
 -> <a href="https://olivermak.es/">
   <img src="https://rawgit.com/Abdul2/CentreOfExcellence/master/CeO-objectives%20.png">
-</a> ->
+</a> <-
 
 ### Definitions
 
